@@ -6,11 +6,11 @@ Made this for myself with intention of improving my Photoshop knowledge, especia
 
 It's not perfect and still requires practice:)
 
-You can find me streaming <a href="https://twitch.tv/theToxi_">here</a>
+You can find me streaming <a href="https://twitch.tv/theToxi_" target="_blank">here</a>
 
 .PSD Download <a href="https://github.com/Toxicom/league-overlays/raw/main/Overlay.psd">here</a>
 
-.PNG Download here: <a href="https://github.com/Toxicom/league-overlays/raw/main/Overlay.png">here</a>
+.PNG Download here: <a href="https://github.com/Toxicom/league-overlays/raw/main/Overlay.png" target="_blank">here</a>
 
 <h3>Settings:</h3>
 <ul>
